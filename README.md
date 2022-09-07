@@ -4,7 +4,7 @@ This is bot21, made by Twm.
 Intent is to be used to bully your discord friends by having the bot roast your friends profile pictures.
 It will use the discord API, reddit API and an undetermined image recognition API.
 
-All API's belong to their respective owners. 
+All software used belong to their respective owners. 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
