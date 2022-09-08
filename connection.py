@@ -1,13 +1,14 @@
 # bot.py
 import os
-
 import discord
-from dotenv import load_dotenv
+from dotenv import load_dotenv, find_dotenv
 
-load_dotenv()
-TOKEN = os.getenv('DISCORD_TOKEN')
+#finds the env file and sets the login token
+load_dotenv(find_dotenv())
+TOKEN = os.getenv('discord-token')
 
-client = discord.Client()
+#defines the client and the intent
+client = discord.Client(intents=discord.Intents.default())
 
 @client.event
 async def on_ready():
