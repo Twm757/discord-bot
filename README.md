@@ -32,12 +32,12 @@ A big thanks to all those who contribute to the project ❤
 ## 💼 Project Owner 
 There are two owners for this project. They all contribute massively to the running of this project. Links to their GitHub profiles can be found below:
 
-- [Twm](https://github.com/Twm757) (ColaIan#2974)
+- [Twm](https://github.com/Twm757)
 
 ## 📜 Requirements
 These are the requirements for the bot.
 
-- [Python 3.9](https://www.python.org/downloads) (Required packages listed in requirements.txt)
+- [Python 3.10](https://www.python.org/downloads) (Required packages listed in requirements.txt)
 
 ## 💖 Credits
 The projects listed in below have provided inspiration, and we thought we'd mention them:
