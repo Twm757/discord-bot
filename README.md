@@ -1,5 +1,5 @@
 <p align="center">
-    ![banner](docs/logo.png)
+    ![description](docs/logo.png)
 </p>
 
 <h2 align="center">
