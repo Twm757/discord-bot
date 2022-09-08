@@ -1,4 +1,4 @@
-![banner](docs/image.png)
+![banner](docs/logo.png)
 
 <h2 align="center">
     This project is currently in development!<br>
