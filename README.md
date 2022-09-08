@@ -1,5 +1,5 @@
 <p align="center">
-    ![description](docs/logo.png)
+  <img src="docs/logo.png" />
 </p>
 
 <h2 align="center">
